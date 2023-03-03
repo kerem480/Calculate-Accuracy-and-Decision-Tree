@@ -30,3 +30,11 @@ If you are looking at old videos or resources, you may get an error because of t
 
 
 ![wine-quality (1) dot](https://user-images.githubusercontent.com/73754203/222736506-2bcf154a-f253-4d2b-9ba7-426bf04013a1.svg)
+
+
+You can follow me on Github and Kaggle;
+
+Kaggle:https://www.kaggle.com/keremkarayaz
+
+Github:https://github.com/kerem480
+
